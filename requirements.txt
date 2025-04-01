@@ -1,0 +1,14 @@
+flask
+requests
+torch
+transformers
+langchain
+langchain_community
+llama_index
+sentence-transformers
+datasets
+pygame
+ragas
+chroma
+faiss-cpu
+pandas
